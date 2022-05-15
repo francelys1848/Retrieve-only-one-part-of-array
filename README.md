@@ -1,1 +1,0 @@
-# Retrieve-only-one-part-of-array
